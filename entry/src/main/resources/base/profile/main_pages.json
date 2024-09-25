@@ -4,6 +4,7 @@
     "pages/AnimateToDemo",
     "pages/SecondPage",
     "pages/BindContentCoverDemo",
-    "pages/BindSheetDemo"
+    "pages/BindSheetDemo",
+    "pages/MyExtendView"
   ]
 }

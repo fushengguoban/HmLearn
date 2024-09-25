@@ -20,7 +20,7 @@ struct Index {
           .onClick(event => {
             // this.pageInfos.pushPath({ name: "secondPage" })
             router.pushUrl({
-              url: 'pages/BindSheetDemo ' // 目标url
+              url: 'pages/MyExtendView' // 目标url
             }, router.RouterMode.Standard, (err) => {
               if (err) {
                 console.error(`Invoke pushUrl failed, code is ${err.code}, message is ${err.message}`);
